@@ -1,6 +1,8 @@
 # SSH-Prank
 Used in my linux server admin class for broadcasting messages to all the VMs 
 # Installation
-Clone the respository to your machine and set the permissions for Prank-SSH.sh to include execute
+git clone https://github.com/jabez007/SSH-Prank.git
+cd SSH-Prank
+chmod u+x Prank-SSH.sh
 # Run
 sudo ./Prank-SSH.sh
